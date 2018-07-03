@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Cool](/img/order-tagger.png)
 
 HELLO MAN
 
